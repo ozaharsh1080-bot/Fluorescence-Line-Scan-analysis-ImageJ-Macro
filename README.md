@@ -1,8 +1,8 @@
 # Fluorescence Line Scan Analysis Workflow
 
-================================================================================
+
 PART 1: RUNNING THE IMAGEJ MACRO (DATA EXTRACTION)
-================================================================================
+
 **Prerequisites:**
 - ImageJ or Fiji installed on your computer.
 
@@ -26,9 +26,9 @@ PART 1: RUNNING THE IMAGEJ MACRO (DATA EXTRACTION)
 
 ---
 
-================================================================================
+
 PART 2: RUNNING THE R SCRIPT (COLOCALIZATION & REPORTING)
-================================================================================
+
 **Prerequisites:**
 - R and RStudio installed.
 - Quarto CLI downloaded and installed from [quarto.org](https://quarto.org/) (required to compile HTML reports).
