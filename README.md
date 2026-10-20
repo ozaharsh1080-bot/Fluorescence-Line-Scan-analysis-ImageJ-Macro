@@ -51,5 +51,7 @@ PART 2: RUNNING THE R SCRIPT (COLOCALIZATION & REPORTING)
 6. **Review Results:**
    - Check your ROI folders for individual plots and CSVs, and look inside the newly created **`Master Stats`** folder for aggregated summary tables and the compiled HTML report.
 
+
+Feel free to edit as per your requirement and share with others.
 ---
 > ⚠️ **Note:** This code has been tested, but please confirm using one or two controls manually to be sure, as the R script was developed via AI-assisted (vibe) coding.
