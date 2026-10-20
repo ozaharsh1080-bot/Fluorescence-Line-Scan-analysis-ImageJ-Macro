@@ -1,8 +1,8 @@
 # ==========================================================================================
-# BIOLOGICAL LINE SCAN ANALYSIS SCRIPT (R) - Colocalization Edition
+# BIOLOGICAL LINESCAN_Intensity Plot Profile_ANALYSIS SCRIPT (R) - Colocalization Edition
 # ==========================================================================================
 # Developed using Vibe coding and tested by Harsh Oza
-# This script analyzes fluorescence intensity line scans of biological structures
+# This script analyzes fluorescence intensity linescan intensity plot profile from confocal images.
 # to measure Profile Colocalization (Pearson's r) between channels, generate 
 # raw and normalized intensity plots, and compile an automated Quarto report.
 # ==========================================================================================
