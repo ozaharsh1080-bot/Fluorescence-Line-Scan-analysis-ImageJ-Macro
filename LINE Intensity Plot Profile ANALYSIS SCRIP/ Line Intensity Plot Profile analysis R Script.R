@@ -1,5 +1,5 @@
 # ==========================================================================================
-# BIOLOGICAL LINE Intensity Plot Profile ANALYSIS SCRIPT (R) - Colocalization Edition
+# BIOLOGICAL Line Intensity Plot Profile Analysis Script (R) - Colocalization Edition
 # ==========================================================================================
 # Developed using Vibe coding and tested by Harsh Oza
 # This script analyzes fluorescence intensity linescan intensity plot profile from confocal images.
