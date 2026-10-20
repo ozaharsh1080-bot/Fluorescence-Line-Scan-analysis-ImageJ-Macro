@@ -1,5 +1,5 @@
 /*
- * Macro: Fluorescence Line Scan Extractor
+ * Macro: Linescan (Intensity Plot Profile) Extractor
  * Authors: Harsh Oza (developed with AI assistance)
  * Description: An ImageJ/Fiji macro designed to automate fluorescence line scan 
  *              extraction from multi-channel biological images (.lif composites, 
