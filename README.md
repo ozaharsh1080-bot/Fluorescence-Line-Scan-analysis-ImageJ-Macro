@@ -1,4 +1,4 @@
-# Fluorescence Line Scan Analysis Workflow
+# Linescan (Intensity Plot profile) Analysis Workflow
 
 
 PART 1: RUNNING THE IMAGEJ MACRO (DATA EXTRACTION)
